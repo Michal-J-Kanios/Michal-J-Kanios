@@ -11,7 +11,7 @@
 - 💬 Contact: michalkanios@outlook.com
 
 ## Skillset
-- 🟢 Proficient: HTML, CSS, JS
+- 🟢 Proficient: HTML, CSS, JS, PHP
 - 🟡 Intermediate: C#, C++, Wordpress, GIT
 - 🔴 Studying: Angular, React, Bootstrap
 
