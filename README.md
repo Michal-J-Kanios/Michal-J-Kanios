@@ -27,12 +27,8 @@
 
 ## Hobbies & Interests
 - 🎨 Digital Art
-- 🎹 Music Production
-- 🎥 Cinematography
+- 🎬 Cinema
+- 🌍 Geopolitics & 📚 History
+- 🎮 Video Games (mainly strategy)
 - 🎭 Tabletop role-playing games (TTRPGs)
-
-  ### Additional Skills
-🎲🧙‍♂️My experience as a Game Master for several "Dungeons & Dragons 5th edition" TTRPG campaigns and how it can be of use:
-- Role-playing each week amounts to weekly creativity and conflict resolution exercises, improving consistency and improvisation skills.
-- Designing engaging game sessions for my players amounts to extensive knowledge about game design principles.
-- Managing 6-7 players every game has trained me in multitasking and taught me the value of teamwork.
+- Learning 🎹 Music Production
