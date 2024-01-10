@@ -12,7 +12,7 @@
 
 ## Skillset
 - 🟢 Proficient: HTML, CSS, JS, PHP
-- 🟡 Intermediate: C#, C++, Wordpress, GIT
+- 🟡 Intermediate: C#, C++, Wordpress
 - 🔴 Studying: Angular, React, Bootstrap
 
 ## Programming-related Websites
