@@ -27,8 +27,11 @@
 - Instagram: https://www.instagram.com/nova7770_art (formerly most active)
 - Personal Website (Art Gallery): soon
 
-## Projects
+## Biggest Projects
 - Personal Website - soon
+- Advanced TTRPG Dice Roller (D20 system) - https://github.com/Michal-J-Kanios/ttrpg_dice_roller
+- Rich Text Editor - https://github.com/Michal-J-Kanios/javascript_text_editor
+- Full JavaScript course by Jonas Schmedtmann - https://github.com/Michal-J-Kanios/complete-javascript-course
 - Dungeons & Dragons 5E NPC Generator - HTML/CSS/JS (soon)
 - Dungeons & Dragons Oracle for Solo Play - HTML/CSS/JS (soon)
 
