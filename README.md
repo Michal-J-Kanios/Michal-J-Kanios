@@ -1,5 +1,5 @@
 # Michał Kanios - About Me
-👋 Hi! My name is Michał. I'm an aspiring front-end web developer from Poland with a burning passion for digital art and graphic design. My approach to life is to never stay stagnant, always be ambitious, and keep learning.
+👋 Hi! My name is Michał. I'm an aspiring front-end web developer from Poland with a burning passion for digital art and graphic design. My approach to life is to never stay stagnant and always be ambitious. "Mastery" and "perfection" are inherently counterproductive to growth - you can always be better, don't settle for less.
 
 ![github_ttrpg_table_background](https://github.com/Michal-J-Kanios/aboutMe/assets/92123240/d4b53976-c6d8-44ca-ac88-c7d8d8af0702)
 
