@@ -29,11 +29,10 @@
 
 ## Biggest Projects
 - Personal Website - soon
-- Advanced TTRPG Dice Roller (D20 system) - https://github.com/Michal-J-Kanios/ttrpg_dice_roller
-- Rich Text Editor - https://github.com/Michal-J-Kanios/javascript_text_editor
-- Full JavaScript course by Jonas Schmedtmann - https://github.com/Michal-J-Kanios/complete-javascript-course
-- Dungeons & Dragons 5E NPC Generator - HTML/CSS/JS (soon)
-- Dungeons & Dragons Oracle for Solo Play - HTML/CSS/JS (soon)
+- [TTRPG Dice Roller](https://github.com/Michal-J-Kanios/ttrpg_dice_roller) - a dice roller for the D20 system
+- [Rich Text Editor](https://github.com/Michal-J-Kanios/javascript_text_editor) - a text editor with advanced features and a dark mode toggle
+- [Full JavaScript course by Jonas Schmedtmann](https://github.com/Michal-J-Kanios/complete-javascript-course) - a complete, high-quality JS course from Udemy
+- [Fate Weaver - TTRPG Oracle](https://github.com/Michal-J-Kanios/fateweaver_oracle) - an oracle tool that streamlines the process of solo play in D&D 5th edition by emulating a game master
 
 ## Hobbies & Interests
 - 🎨 Digital Art
