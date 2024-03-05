@@ -14,8 +14,8 @@
 
 ## Skillset
 - 🟢 Proficient: HTML, CSS, JS, PHP
-- 🟡 Intermediate: TS, C#, C++, Wordpress
-- 🔴 Studying: Figma, Angular, React, Bootstrap
+- 🟡 Intermediate: TS, C#, C++, Wordpress, Figma, Angular
+- 🔴 Studying: React, Bootstrap
 
 ## Programming-related Websites
 - Personal Website: soon
@@ -32,13 +32,14 @@
 - [TTRPG Dice Roller](https://github.com/Michal-J-Kanios/ttrpg_dice_roller) - a dice roller for the D20 system
 - [Rich Text Editor](https://github.com/Michal-J-Kanios/javascript_text_editor) - a text editor with advanced features and a dark mode toggle
 - [Full JavaScript course by Jonas Schmedtmann](https://github.com/Michal-J-Kanios/complete-javascript-course) - a complete, high-quality JS course from Udemy
-- [Fate Weaver - TTRPG Oracle](https://github.com/Michal-J-Kanios/fateweaver_oracle) - an oracle tool that streamlines the process of solo play in D&D 5th edition by emulating a game master
+- [Fate Weaver - TTRPG Oracle](https://github.com/Michal-J-Kanios/fateweaver_oracle) - a Game Master emulator/Solo TTRPG oracle for Dungeons and Dragons 5e. My biggest project yet.
 
 ## Hobbies & Interests
 - 🎨 Digital Art
 - 🎬 Cinema
+- 📖 Reading
 - 🌍 Geopolitics & 📚 History
-- 🎮 Video Games (mainly strategy)
+- 🎮 Video Games (mainly grand/turn strategy)
 - 🎭 Tabletop role-playing games (TTRPGs)
 - Learning 🎹 Music Production
 
