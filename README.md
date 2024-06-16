@@ -5,7 +5,7 @@
 
 ## Overview
 - 🌍 Polish / 19 years old
-- 💌 Fluent in English - CAE (C1)
+- 💌 Fluent in English - CAE (C1 Level)
 - 📧 Conversational in German, beginner in French
 - 👨‍💻 Programming student
 - 👨‍🎨 Digital Artist / Graphic Designer
