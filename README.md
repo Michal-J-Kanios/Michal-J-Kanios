@@ -17,11 +17,6 @@
 - 🟡 Intermediate: TS, C#, C++, Wordpress, Figma, Angular
 - 🔴 Studying: React, Bootstrap
 
-## Programming-related Websites
-- Personal Website: soon
-- DEV Community (dev.to): soon
-- LinkedIn: soon
-
 ## Art-related Websites
 - Deviantart: https://www.deviantart.com/nova7770 (most active)
 - Instagram: https://www.instagram.com/nova7770_art (formerly most active)
