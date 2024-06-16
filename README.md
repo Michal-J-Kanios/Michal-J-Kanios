@@ -10,7 +10,7 @@
 - 👨‍💻 Programming student
 - 👨‍🎨 Digital Artist / Graphic Designer
 - 🌐 UI/UX Design
-- 💬 Contact: michalkanios@outlook.com
+- 💬 Contact: michalkanios@protonmail.com
 
 ## Skillset
 - 🟢 Proficient: HTML, CSS, JS, PHP
