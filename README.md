@@ -4,7 +4,7 @@
 ![github_ttrpg_table_background](https://github.com/Michal-J-Kanios/aboutMe/assets/92123240/d4b53976-c6d8-44ca-ac88-c7d8d8af0702)
 
 ## Overview
-- 🌍 Polish / 18 years old
+- 🌍 Polish / 19 years old
 - 💌 Fluent in English - CAE (C1)
 - 📧 Conversational in German, learning French
 - 👨‍💻 Programming student
