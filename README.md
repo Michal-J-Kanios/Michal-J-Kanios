@@ -31,7 +31,6 @@
 - [Portfolio Website](https://github.com/Michal-J-Kanios/portfolio-school-project) - my portfolio website made almost exclusively with HTML and CSS. Pushes limits of CSS and needs only a few lines of JS.
 - [TTRPG Dice Roller](https://github.com/Michal-J-Kanios/ttrpg_dice_roller) - a dice roller for the D20 system
 - [Rich Text Editor](https://github.com/Michal-J-Kanios/javascript_text_editor) - a text editor with advanced features and a dark mode toggle
-- [Full JavaScript course by Jonas Schmedtmann](https://github.com/Michal-J-Kanios/complete-javascript-course) - a complete, high-quality JS course from Jonas Schmedtmann on Udemy
 - [Fate Weaver - TTRPG Oracle](https://github.com/Michal-J-Kanios/fateweaver_oracle) - a Game Master emulator/Solo TTRPG oracle for Dungeons and Dragons 5e. My biggest project yet.
 
 ## Hobbies & Interests
