@@ -26,7 +26,7 @@
 - [Portfolio Website](https://github.com/Michal-J-Kanios/portfolio-school-project) - my portfolio website made almost exclusively with HTML and CSS. Pushes limits of CSS and needs only a few lines of JS (will host it on Vercel soon)
 - [TTRPG Dice Roller](https://github.com/Michal-J-Kanios/ttrpg_dice_roller) - a dice roller for the D20 system
 - [Rich Text Editor](https://github.com/Michal-J-Kanios/javascript_text_editor) - a text editor with advanced features and a dark mode toggle
-- [Fate Weaver - TTRPG Oracle](https://github.com/Michal-J-Kanios/fateweaver_oracle) - a Game Master emulator/Solo TTRPG oracle for Dungeons and Dragons 5e. My biggest project yet.
+- [Fate Weaver - TTRPG Oracle](https://github.com/Michal-J-Kanios/fateweaver_oracle) - a Game Master emulator/Solo TTRPG oracle for Dungeons and Dragons 5e. My biggest project yet. [Visit it here!](https://fateweaver-michal-j-kanios-projects.vercel.app/)
 - [Soloastria: Lights Out!](github.com) - a Dungeons & Dragons Blog-Comic developed in Wordpress that updates every month (W.I.P)
 
 ## Hobbies & Interests
