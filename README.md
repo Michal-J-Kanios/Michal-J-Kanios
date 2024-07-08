@@ -14,7 +14,7 @@
 
 ## Skillset
 - 🟢 Proficient: HTML, CSS, JS, PHP, Wordpress
-- 🟡 Intermediate: TS, C#, C++, Wordpress, Figma, Angular
+- 🟡 Intermediate: TS, C#, C++, Figma, Angular
 - 🔴 Studying: React, Bootstrap
 
 ## Art-related Websites
