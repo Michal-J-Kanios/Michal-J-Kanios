@@ -1,21 +1,21 @@
 # Michał Kanios - About Me
-👋 Hello! My name is Michał. I'm an aspiring front-end web developer from Poland with a burning passion for digital art and graphic design. Check out my projects!
+👋 Hello, my name is Michał! I'm a front-end web developer from Poland with a knack for digital art and graphic design. Check out my projects!
 
 ![github_ttrpg_table_background](https://github.com/Michal-J-Kanios/aboutMe/assets/92123240/d4b53976-c6d8-44ca-ac88-c7d8d8af0702)
 
 ## Overview
 - 🌍 Polish / 19 years old
-- 💌 Fluent in English - CAE (C1 Level)
-- 📧 Conversational in German, beginner in French
-- 👨‍💻 Programming student
+- 💌 Fluent in English - Certified C1 Level Speaker
+- 📧 Conversational in German, dabbling in French and Italian
+- 👨‍💻 Programming Student
 - 👨‍🎨 Digital Artist / Graphic Designer
 - 🌐 UI/UX Design
 - 💬 Contact: michalkanios@protonmail.com
 
 ## Skillset
-- 🟢 Proficient: HTML, CSS, JS, PHP, Wordpress
-- 🟡 Intermediate: TS, C#, C++, Figma, Angular
-- 🔴 Studying: React, Bootstrap
+- 🟢 Proficient: HTML, CSS, JS, PHP, SQL, Xamarin, WPF, C++, C#, Wordpress
+- 🟡 Intermediate: React, Angular, Figma
+- 🔴 Studying: Python, Bootstrap
 
 ## Art-related Websites
 - Deviantart: https://www.deviantart.com/nova7770 (most active)
